@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/scottz/Desktop/encode/Lesson11/contracts/TokenizedBallot.sol": {
+      "lastModificationDate": 1677788997724,
+      "contentHash": "79add8ae2f2e65b31d6b01e7aeb19ac7",
+      "sourceName": "contracts/TokenizedBallot.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Ballot"
+      ]
+    }
+  }
+}

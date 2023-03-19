@@ -1,0 +1,6 @@
+MNEMONIC="here is where your twelve words mnemonic should be put my friend"
+PRIVATE_KEY="<72154bcf3468e2aafda496164c1e8c16189989522c6f5bbaea9a99d484bb7e6e>"
+INFURA_API_KEY="********************************"
+INFURA_API_SECRET="********************************"
+ALCHEMY_API_KEY="********************************"
+ETHERSCAN_API_KEY="********************************"
